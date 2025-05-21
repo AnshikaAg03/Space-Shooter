@@ -9,3 +9,7 @@ A space shooting  game built with python, featuring a **modular weapon system**,
   - \`TripleShot\`: Fires in a spread pattern.
   - \`RapidFire\`: High-rate continuous shooting.
 - Custom weapons that adapt to enemy types for strategic gameplay.
+
+### 🧮 Physics-Based Projectile Mechanics
+- Uses vector math for calculating bullet trajectories.
+- Ensures accurate directional shooting using unit vectors and velocity components.
