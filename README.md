@@ -86,7 +86,7 @@ ai/
 ![Image_2](code/Gameplay_Images/Image_2.png)
 Gameplay :
 
-![Image_3](https://github.com/Spartan-X1/Space-shooter-RL-Genetic/blob/master/code/images/Space_Shooter.gif)
+![Image_3](code/images/Space_Shooter.gif)
 
 ---
 ## 📊 Training & Evolution Insights
