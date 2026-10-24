@@ -105,12 +105,12 @@ Gameplay :
 ## 📊 Training & Evaluation Results
 
 ### 🔥 Agent Performance
-![Score](code/plot/Score.png)
-![Duration](code/plot/Duration.png)
-![Progress](code/plot/Score_Progress.png)
-![Learning](code/plot/Learning.png)
-![Training](code/plot/Training_Loss.png)
-![Q_value](code/plot/Q_value.png)
+![Score](Code/plot/Score.png)
+![Duration](Code/plot/Duration.png)
+![Progress](Code/plot/Score_Progress.png)
+![Learning](Code/plot/Learning.png)
+![Training](Code/plot/Training_Loss.png)
+![Q_value](Code/plot/Q_value.png)
 
 ---
 ## 🗺️ Roadmap
